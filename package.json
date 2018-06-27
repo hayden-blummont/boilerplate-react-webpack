@@ -1,10 +1,10 @@
 {
-  "name": "WTFcanyoueat??",
+  "name": "WTFcanyoueat",
   "version": "0.0.1",
   "description": "Vegan food finder",
-  "repository": "https://github.com/dev-academy-challenges/boilerplate-react-webpack.git",
+  "repository": "https://github.com/hayden-blummont/boilerplate-react-webpack.git",
   "main": "server/index.js",
-  "author": "EDA",
+  "author": "Hayden Blummont",
   "license": "ISC",
   "scripts": {
     "start": "webpack && node server",
